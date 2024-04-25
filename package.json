@@ -22,6 +22,7 @@
   "homepage": "https://github.com/IYuliia/goit-node-cli#readme",
   "dependencies": {
     "commander": "^12.0.0",
+    "nanoid": "^5.0.7",
     "yarn": "^1.22.22"
   },
   "devDependencies": {
